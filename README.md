@@ -1,1 +1,1 @@
-Hi, I'm Howard Sun, a software engineer with a passion for leveraging technology to make a real difference. I love diving into projects that push the boundaries of what's possible, both within the tech industry and beyond.
+👋 Hi, I'm Howard Sun, a software engineer with a passion for leveraging technology to make a real difference. I love diving into projects that push the boundaries of what's possible, both within the tech industry and beyond.
