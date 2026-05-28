@@ -31,4 +31,4 @@ I build end-to-end products — from realtime chat systems and desktop apps to c
 
 ### Open to Opportunities
 
-I'm actively looking for full-stack / frontend engineering roles where I can own features end-to-end and raise the bar on code quality and delivery. Let's talk: [howardsun.swe@gmail.com](mailto:howardsun.swe@gmail.com)
+I'm actively looking for full-stack / frontend engineering roles where I can own features end-to-end and raise the bar on code quality and delivery. Let's talk: [howardsun@pm.me](mailto:howardsun@pm.me)
